@@ -6,4 +6,5 @@
   ```
  Mouse wheel - zoom
  Mouse move - model rotation
+ Slider - Shange noise octaves
   ```
